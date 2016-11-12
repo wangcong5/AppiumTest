@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="libs/java-client-4.1.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/java-client-4.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="libs/java-client-4.1.0.jar"/>
+	<classpathentry kind="lib" path="libs/selenium-server-standalone-2.53.1.jar"/>
+	<classpathentry kind="lib" path="libs/selenium-java-2.53.1.jar"/>
+	<classpathentry kind="lib" path="libs/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="libs/selenium-java-2.53.1-srcs.jar"/>
+	<classpathentry kind="lib" path="libs/testng-6.9.9.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
